@@ -1,2 +1,4 @@
 # arepaflix
-Api con crud de plataforma de stream arepaflix
+ArepaFlix: Tu Universo de Contenido Latinoamericano
+
+Permítanme presentarles a ArepaFlix, una innovadora plataforma de streaming dedicada a celebrar y distribuir lo mejor de las series latinoamericanas. Nacida de la pasión por nuestras historias y talentos, ArepaFlix ofrece un catálogo vibrante que abarca desde clásicos cinematográficos como Somos tu y yo hasta las series más actuales, con un enfoque especial en producciones que resalten la riqueza cultural de la región. Imaginen un lugar donde pueden encontrar todas esas series icónicas donde brilló María Gabriela de Faría, junto a un sinfín de joyas ocultas y nuevas creaciones que están esperando ser descubiertas.
